@@ -1,0 +1,7 @@
+Legg MP3-filene i denne mappa.
+
+Filnavn siden ser etter:
+  ap044_01_man_normal.mp3   (Et par pærer parkerte perfekt.)
+  ap043_01_man_normal.mp3   (Jeg skal bare bare baere baer til barna.)
+
+Slett denne filen naar lydfilene er lagt inn.
